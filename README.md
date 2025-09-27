@@ -50,7 +50,7 @@ src/
 ## ⚡ Setup Instructions
 Clone the repo and run locally:
 
-git clone https://github.com/<your-username>/ielts-institute-homepage.git  
+git clone [https://github.com/akshith-png/Sample-IELTS-Institution-Homepage.git  ]
 cd ielts-institute-homepage  
 npm install  
 npm start  
